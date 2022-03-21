@@ -7,7 +7,22 @@ const rulesForJS = {
     loader: 'babel-loader'
 }
 
-const rules = [rulesForJS]
+const rulesForStyles = {
+    test: /\.(css|sass|scss)$/,
+    use: [
+        {
+            loader: 'style-loader'
+        },
+        {
+            loader: 'css-loader'
+        },
+        {
+            loader: 'sass-loader'
+        }
+    ]
+}
+
+const rules = [rulesForJS, rulesForStyles]
 
 module.exports = {
     mode: 'development',
@@ -32,7 +47,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            template: './src/index.html'
+            template: './public/index.html'
         })
     ]
 }
