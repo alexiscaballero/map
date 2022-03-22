@@ -1,6 +1,7 @@
 import './index.scss';
 import HomeMenu from './components/menu'
 import Navbar from './components/navbar';
+import Content from './components/content';
 
 const App = () => {
     return (
@@ -8,12 +9,7 @@ const App = () => {
             <HomeMenu pageWrapId={"page-wrap"} outerContainerId={"outer-container"} />
             <main id="page-wrap">
                 <Navbar />
-                <div>
-                    <h1>Falopa</h1>
-                    <a>jnasdkjfnalksndflkjans</a>
-                    <a>jnasdkjfnalksndflkjans</a>
-                    <a>jnasdkjfnalksndflkjans</a>
-                </div>
+                <Content />
             </main>
         </div>
     );

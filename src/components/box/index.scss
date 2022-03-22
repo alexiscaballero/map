@@ -1,0 +1,26 @@
+@use "./../../palette.scss";
+
+.box {
+    margin: 0.5em;
+    background: palette.$grey;
+    border-radius: 5px;
+    width: fit-content;
+    -webkit-box-shadow: 6px 8px 6px -6px black;
+    -moz-box-shadow: 6px 8px 6px -6px black;
+    box-shadow: 6px 8px 6px -6px black;
+}
+
+.box-title-normal {
+    display: block;
+    background: palette.$star-command-blue;
+    margin: 0;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+}
+
+.box-content-normal {
+    margin: 0;
+    padding: 10px;
+}
