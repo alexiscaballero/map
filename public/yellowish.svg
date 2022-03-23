@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns1="http://sozi.baierouge.fr" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" xml:space="preserve" viewBox="0 0 1410.7 736.6" version="1.1" inkscape:version="0.91 r13725">
+  <defs id="defs6">
+    <clipPath id="clipPath20">
+      <path id="path22" d="m0 589.28h1128.6v-589.28c-442.14 2.854-762.87 7.854-962.2 14.999-62.26 2.242-108.7 4.562-139.28 6.961-15.253 1.199-24.292 2.175-27.12 2.922v564.4z" inkscape:connector-curvature="0"/>
+    </clipPath>
+    <clipPath id="clipPath28">
+      <path id="path30" d="m-1411.2-761.9h1411.2v737.5h-1411.2v-737.5z" inkscape:connector-curvature="0"/>
+    </clipPath>
+    <radialGradient id="radialGradient32" gradientUnits="userSpaceOnUse" cy="-380.95" cx="-2738" r="2678.4">
+      <stop id="stop34" style="stop-color:#ffffff;stop-opacity:0" offset="0"/>
+      <stop id="stop36" style="stop-color:#ffffff;stop-opacity:.65881" offset="1"/>
+    </radialGradient>
+    <mask id="mask38">
+      <g id="g40">
+        <g id="g42" clip-path="url(#clipPath28)">
+          <path id="path44" style="fill:url(#radialGradient32)" d="m-1411.2-761.9h1411.2v737.5h-1411.2v-737.5z" inkscape:connector-curvature="0"/>
+        </g>
+      </g>
+    </mask>
+    <radialGradient id="radialGradient48" gradientUnits="userSpaceOnUse" cy="-380.95" cx="-2738" r="2678.4">
+      <stop id="stop50" style="stop-color:#000000" offset="0"/>
+      <stop id="stop52" style="stop-color:#000000" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="g10" transform="matrix(1.25 0 0 -1.25 0 736.6)">
+    <g id="g12">
+      <path id="path14" style="fill-rule:evenodd;fill:#cfa23e" d="m0 589.28h1128.6v-589.28c-442.14 2.854-762.87 7.854-962.2 14.999-62.26 2.242-108.7 4.562-139.28 6.961-15.253 1.199-24.292 2.175-27.12 2.922v564.4z" inkscape:connector-curvature="0"/>
+      <g id="g16">
+        <g id="g18" clip-path="url(#clipPath20)">
+          <g id="g24" transform="matrix(-.8 0 0 -.8 0 -20.24)">
+            <g id="g46" mask="url(#mask38)">
+              <path id="path54" style="fill-rule:evenodd;fill:url(#radialGradient48)" d="m0 589.28h1128.6v-589.28c-442.14 2.854-762.87 7.854-962.2 14.999-62.26 2.242-108.7 4.562-139.28 6.961-15.253 1.199-24.292 2.175-27.12 2.922v564.4z" inkscape:connector-curvature="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+<metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>

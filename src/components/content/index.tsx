@@ -1,5 +1,6 @@
 import './index.scss';
 import Box from './../box';
+import Map from './../map';
 
 const MapViewer = () => {
     return (
@@ -56,13 +57,12 @@ const Content = () => {
             </div>
             <div className='content-container'>
                 <div className='content-container-body'>
-                    <Box children={<MapViewer />} title='Roadmap' />
+                    <Box children={<Map />} title='Roadmap' />
                 </div>
                 <div className='content-container-panel'>
                     <Box children={<Panel />} title='Panel' boxTitleStyles={{ background: '#ed7d3aff' }}/>
                 </div>
             </div>
-
         </div>
     );
 }
